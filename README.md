@@ -13,7 +13,7 @@ A windows bypass that unenrolls your managed school windows laptop using PrintSp
 
 ## Check if Intune is the Lock
 1. Run this script in CMD as User;
-`dsregcmd /status`
+```dsregcmd /status```
 Look for:
 `AzureAdJoined: YES`
 `MdmEnrolled: YES`
