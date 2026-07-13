@@ -39,5 +39,6 @@ A windows bypass that unenrolls your managed school windows laptop using PrintSp
 `netsh advfirewall firewall add rule name="Block Intune" dir=out action=block remoteip=13.107.64.0/18,52.114.0.0/17 enable=yes profile=any`
 
 ## Credits: 
-- 2pro12342 | Github
+- 2pro12342 
+
 - PrintSpoofer 
